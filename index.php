@@ -11,7 +11,6 @@ if(isset($_SESSION["session_id"]) && $_SESSION["session_id"] ==session_id() ){
 ?>
 <!DOCTYPE >
 <html>
-	<head>
 		<head>
 			<meta charset="utf-8">
 			<meta name="viewport" content="width=device-width, initial-scale=1">
